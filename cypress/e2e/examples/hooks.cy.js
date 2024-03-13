@@ -1,3 +1,4 @@
+
 describe('Allure hooks', () => {
     before(() => {
         cy.log('from before');
